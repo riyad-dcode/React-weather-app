@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@400;600;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+.app{
+  min-height: 100vh;
+  display: grid;
+  background-color: rgb(220, 215, 232);
+  padding-top: 50px;
+  align-items: center;
+  justify-content: center;
+}
